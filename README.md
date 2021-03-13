@@ -17,9 +17,6 @@
 
 - ⚡ Fun fact **Only 10% of the money is physical, the rest is on people's accounts.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
