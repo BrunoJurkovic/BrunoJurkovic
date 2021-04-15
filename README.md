@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **flutter, production, growth**
 
-- 📫 How to reach me **bruno.jurkovic1@gmail.com**
+- 📫 How to reach me **bruno@brunojurkovic.com**
 
-- ⚡ Fun fact **Only 10% of the money is physical, the rest is on people's accounts.**
+- ⚡ Fun fact **The opposite sides of a dice cube always add up to seven.**
 
 
 <h3 align="left">Connect with me:</h3>
