@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **The opposite sides of a dice cube always add up to seven.**
 
-- ⭐️ Check out my [brunojurkovic.com](website)!
+- ⭐️ Check out my [website](brunojurkovic.com)!
 
 
 <h3 align="left">Connect with me:</h3>
