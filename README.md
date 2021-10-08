@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunojurkovic" alt="brunojurkovic" /></a> </p>
 
-- 🔭 I’m currently working on [akademik](https://github.com/BrunoJurkovic/akademik)
+- 🔭 I’m currently working on [Drinkly!](https://play.google.com/store/apps/details?id=com.remade.drinkly)
 
 - 🌱 I’m currently learning **React, Node.js and web in general.**
 
