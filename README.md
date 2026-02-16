@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=making+reasonably+cool+things;mobile+%26+embedded+enthusiast;open+source+contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=making+reasonably+cool+things;turning+tokens+into+projects;open+source+contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,9 +12,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,ts,python,cpp,docker,git,linux&theme=dark&perline=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,ts,python,cpp,docker,git,linux&theme=light&perline=8" />
-    <img src="https://skillicons.dev/icons?i=flutter,dart,ts,python,cpp,docker,git,linux&theme=dark&perline=8" alt="Tech Stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,ts,python,cpp,docker,git,linux&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,ts,python,cpp,docker,git,linux&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,ts,python,cpp,docker,git,linux&amp;theme=dark" alt="Tech Stack" />
   </picture>
 </p>
 
