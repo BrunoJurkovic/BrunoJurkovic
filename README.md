@@ -12,6 +12,10 @@
 
 ### projects
 
+**[dotfiles](https://github.com/BrunoJurkovic/dotfiles)** &middot; `Shell`
+<br>
+macOS tiling WM setup &mdash; yabai, skhd, sketchybar, neovim, ghostty
+
 **[claude-code-discord-status](https://github.com/BrunoJurkovic/claude-code-discord-status)** &middot; `TypeScript`
 <br>
 Discord Rich Presence for Claude Code sessions
